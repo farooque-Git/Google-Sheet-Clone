@@ -131,3 +131,4 @@ pasteBtn.addEventListener("click", (e) => {
             cell.click();
         }
     }
+});
